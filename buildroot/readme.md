@@ -1,1 +1,0 @@
-Buildroot is a ISO builder used in this project
