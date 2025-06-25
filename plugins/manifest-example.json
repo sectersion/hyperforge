@@ -1,0 +1,8 @@
+{
+  "id": "com.bytebolt.vncviewer",
+  "name": "VNC Viewer",
+  "type": "frontend",
+  "version": "1.0.0",
+  "entry": "dist/index.js",
+  "dockable": true
+}
