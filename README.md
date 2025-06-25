@@ -16,4 +16,4 @@ Next-gen modular virtualization OS with web GUI, clustering, and plugin support
 - Eternity Port selection (dedicated management NIC)
 - Modular installer ISO (language + feature selection)
 
-> Built by [ByteBolt Labs](https://github.com/user/sectersion) 🚀
+> Built by [ByteBolt Labs](https://github.com/sectersion) 🚀
